@@ -17,12 +17,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 btn.setClick(true);
-                //测试提交
-                //测试提交
-                //测试提交
-                //测试提交
-                //测试提交
-                //测试提交
+                //这是master的修改
             }
         });
         findViewById(R.id.btn2).setOnClickListener(new View.OnClickListener() {
