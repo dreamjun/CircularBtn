@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 btn.setClick(true);
                 //这是master的修改
+                //这是vvv的分支
+
             }
         });
         findViewById(R.id.btn2).setOnClickListener(new View.OnClickListener() {
